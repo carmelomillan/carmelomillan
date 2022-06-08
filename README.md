@@ -2,7 +2,7 @@
 - 👀 I’m interested in all kink of integration data technologies
 - 🌱 I’m currently learning BigData and Analytics
 - 💞️ I’m looking to collaborate on any project with these techcnologies
-- 📫 How to reach me:  
+- 📫 How to reach me:  carmelo.millan@oracle.com
 
 <!---
 carmelomillan/carmelomillan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
